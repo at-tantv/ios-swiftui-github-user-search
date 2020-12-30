@@ -1,4 +1,4 @@
 language: swift
 xcode_project: GithubSearch.xcodeproj
 xcode_scheme: ios-swiftui-github-user-search
-xcode_destination: platform=iOS Simulator,OS=14.3,name=iPhone X
+xcode_destination: platform=iOS Simulator,OS=14.3
