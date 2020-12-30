@@ -1,4 +1,4 @@
-https://api.travis-ci.org/tamasdancsi/ios-swiftui-github-user-search.svg
+[![Build Status](https://travis-ci.org/tamasdancsi/ios-swiftui-github-user-search.svg?branch=master)](https://travis-ci.org/tamasdancsi/ios-swiftui-github-user-search)
 
 # Github Search
 
